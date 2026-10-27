@@ -1,0 +1,49 @@
+*{
+    font-family: sans-serif;
+    background-color:aliceblue;
+    text-align: center;
+}
+
+.job-title, .company{
+    font-weight: 500;
+    color:darkblue;
+}
+
+.employee-name{
+    font-weight: 700;
+    color:darkblue;
+}
+
+.highlight{
+    background-color: yellow;
+}
+
+.important{
+    color:blue;
+}
+
+#about{
+    color:darkblue
+}
+
+#skills{
+    background-color: azure;
+    font-weight: 700;
+}
+
+p{
+    font-family:monospace;
+    font-size: large;
+}
+
+ul{
+    background-color: aqua;
+}
+
+h2{
+    color: darkblue;
+}
+
+a{
+    font-family:cursive;
+}
