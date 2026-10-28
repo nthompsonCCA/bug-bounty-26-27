@@ -1,0 +1,30 @@
+*{ 
+    font-family: 'Courier New', Courier, monospace;
+    background-color: darksalmon;
+   
+    
+}
+.employee-name, .job-title, .about-me, .skills, .projects,.information,.Reflection-Questions {
+    color: cyan;
+}
+#skills{
+    color: blue;
+}
+#about{
+    color: red;
+}
+.company{
+    color: red;
+}
+#projects{
+    color: red;
+}
+#contact{
+    color: red;
+    text-align:right;
+}
+#list{
+    color: forestgreen;
+    
+}
+
