@@ -1,0 +1,30 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+    background-color: lightcoral;
+}
+.employee-name,.job-title,.about-me,#contact{
+    color:green;
+    font-style: italic;
+}
+#skills{
+    color:darkgreen;
+}
+p{
+    color:midnightblue;
+}
+ol{
+    color:lawngreen;
+}
+footer{
+    font-style:italic;
+}
+header{
+    font-weight: bold;
+}
+#projects{
+    color:olive;
+}
+#link{
+    font-weight: bolder;
+    font-style: normal;
+}
