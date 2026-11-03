@@ -1,0 +1,36 @@
+*{
+    background-color: lightblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.steps h2, .steps ol, .steps li, .steps{
+    background-color: rgb(194, 230, 241);
+}
+
+ol li{
+    padding-top: 20px;
+}
+
+ul li{
+    padding-top: 5px;
+    padding-left: 20px;
+}
+
+h1, h2{
+    text-align: center;
+    color: rgb(5, 5, 48);
+}
+
+img{
+    outline: 10px solid rgb(5, 5, 48);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h1{
+    font-size: 75px;
+    background-color: white;
+}
