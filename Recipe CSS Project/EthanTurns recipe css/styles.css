@@ -1,0 +1,47 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    padding: 10px;
+    margin: 10px;
+}
+
+h1 {
+    font-size: 72px;
+    color: lightblue;
+}
+
+h2 {
+    font-size: 32px;
+    font-family: Verdana;
+    color: red;
+}
+
+li {
+    font-size: 24px;
+    padding: 5px;
+    margin: 5px;
+    color: lime;
+}
+
+img {
+    height: auto;
+    width: 1080px;
+}
+
+a {
+    color: lime;
+    font-family: 'Segoe UI';
+}
+
+.titles {
+    color: yellow;
+    font-size: 24px;
+    font-family: Georgia;
+}
+
+.home {
+    color: gray;
+    font-size: 18px;
+    font-family: Helvetica
+}

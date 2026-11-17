@@ -1,0 +1,18 @@
+* {
+    font-family: sans-serif;
+    font-size: medium;
+   
+}
+li {
+    margin: 20px;
+    padding: 6px;
+}
+body {
+    background-color:darkgrey;
+}
+.Chicken_Alfredo_Ingredients, .CA_Instructions, .PT_Ingredients, .PT_Directions, .SM_Ingreidents, .SM_Directions {
+    color:midnightblue ;
+}
+h2{
+    font-size: xx-large;
+}

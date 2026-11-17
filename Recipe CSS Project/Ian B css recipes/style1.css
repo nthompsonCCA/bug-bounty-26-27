@@ -1,0 +1,72 @@
+* {
+    color:rgb(202, 72, 235);
+    background-color: rgb(43, 43, 43);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: large;
+    margin-right: 125px;
+    margin-left: 125px;
+    padding: 5px;
+}
+
+h1 {
+    color:rgb(134, 91, 255);
+    font-size: xx-large;
+}
+h2 {
+    color:rgb(255, 94, 45);
+    font-size: x-large;
+}
+
+.recipetitle {
+    padding-top: 30px;
+}
+
+    /* links */
+
+a:link {
+    color:rgb(2, 154, 255);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: x-large;
+    padding: 10px;
+ }
+
+    /* recipes */
+
+.step,
+.ingredient {
+    color: rgb(2, 154, 255);
+    font-family:'Courier New', Courier, monospace;
+    font-size: large;
+    text-align: left;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 0px;
+ }
+
+p {
+    color:rgb(111, 197, 255);
+    font-size: large;
+    margin-left: 250px;
+    margin-right: 250px;
+ }
+.description {
+    font-size: x-large;
+ }
+
+    /* images */
+
+#picture {
+    img {
+    height: 550px;
+    width: 700px;
+    padding: 0px;
+    }
+    p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0px;
+    }
+    a:link {
+    padding: 0px;
+    }
+}
